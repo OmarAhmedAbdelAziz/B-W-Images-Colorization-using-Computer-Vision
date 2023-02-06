@@ -1,4 +1,4 @@
-# Black-White-Images-Colorization-using-GANs-Computer-Vision
+# Black-White-Images-Colorization-using-GANs
 
 "الذكاء الاصطناعي يُحيّ زمن الفن القديم"
 
